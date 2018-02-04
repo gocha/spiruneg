@@ -1,5 +1,6 @@
 Susie plugin for RUNE games (spiruneg)
 ======================================
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/ye14umslt33ay6aj/branch/master?svg=true)](https://ci.appveyor.com/project/gocha/spiruneg/branch/master)
 
 spiruneg is a Susie plugin package for old [Rune](http://www.fromsoftware.jp/top/soft/rune/) games (NC-17).
 
